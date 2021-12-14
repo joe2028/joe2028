@@ -1,9 +1,9 @@
-### Hi there
+### My skills
 
 <!--
 Joe
 -->
 
-- Python
-- JavaScript
-- HTML 5
+- Python - Intermediate
+- JavaScript - Beginner
+- HTML 5 - Intermediate
